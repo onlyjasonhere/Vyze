@@ -17,30 +17,19 @@ Vyze's development team is constantly pushing complex operations and updates. Vy
 With all that said, it seems a bit too much, no? Well, find out for yourself. Invite Vyze to your server today!
 
 
-```markdown
-Syntax highlighted code block
+### Discord Server
 
-# Header 1
-## Header 2
-### Header 3
+Need support? Don't worry, we have you covered!
 
-- Bulleted
-- List
+Join our Discord server [here](https://discord.gg/QCBkWuj), and a support representative will assist you shortly!
 
-1. Numbered
-2. List
+### Documentation
+#Fun Commands:
+  - Coinflip
+  *Flips a coin, will it land on heads or tails?*
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bvta/Vyze-Documentation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  - Cat
+  *Displays a random cat, meow!*
+  
+#Moderation Commands:
+  - TBD.
