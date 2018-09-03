@@ -24,12 +24,4 @@ Need support? Don't worry, we have you covered!
 Join our Discord server [here](https://discord.gg/QCBkWuj), and a support representative will assist you shortly!
 
 ### Documentation
-#Fun Commands:
-  - Coinflip
-  *Flips a coin, will it land on heads or tails?*
-
-  - Cat
-  *Displays a random cat, meow!*
-  
-#Moderation Commands:
-  - TBD.
+***Coming soon!*** - Vyze Development Team.
